@@ -1,21 +1,21 @@
 package com.google.gwt.sample.stockwatcher.client;
 
 
-import java.util.ArrayList;
-import java.util.Date;
-
-import com.google.gwt.core.client.EntryPoint;
-import com.google.gwt.core.client.GWT;
-import com.google.gwt.event.dom.client.ClickEvent;
-import com.google.gwt.event.dom.client.ClickHandler;
-import com.google.gwt.event.dom.client.KeyCodes;
-import com.google.gwt.event.dom.client.KeyDownEvent;
-import com.google.gwt.event.dom.client.KeyDownHandler;
-import com.google.gwt.i18n.client.DateTimeFormat;
-import com.google.gwt.i18n.client.NumberFormat;
-import com.google.gwt.sample.stockwatcher.client.StockService;
-import com.google.gwt.user.client.Random;
-import com.google.gwt.user.client.Timer;
+//import java.util.ArrayList;
+//import java.util.Date;
+//
+//import com.google.gwt.core.client.EntryPoint;
+//import com.google.gwt.core.client.GWT;
+//import com.google.gwt.event.dom.client.ClickEvent;
+//import com.google.gwt.event.dom.client.ClickHandler;
+//import com.google.gwt.event.dom.client.KeyCodes;
+//import com.google.gwt.event.dom.client.KeyDownEvent;
+//import com.google.gwt.event.dom.client.KeyDownHandler;
+//import com.google.gwt.i18n.client.DateTimeFormat;
+//import com.google.gwt.i18n.client.NumberFormat;
+//import com.google.gwt.sample.stockwatcher.client.StockService;
+//import com.google.gwt.user.client.Random;
+//import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Anchor;

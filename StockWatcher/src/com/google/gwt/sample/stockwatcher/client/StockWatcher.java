@@ -68,13 +68,7 @@ private VerticalPanel mainPanel = new VerticalPanel();
 	    });
 	  }
 
-  private void loadLogin() {
-    // Assemble login panel.
-    signInLink.setHref(loginInfo.getLoginUrl());
-    loginPanel.add(loginLabel);
-    loginPanel.add(signInLink);
-    RootPanel.get("stockList").add(loginPanel);
-  }
+
   
 private void loadStockWatcher() {
 	  // Set up sign out hyperlink.

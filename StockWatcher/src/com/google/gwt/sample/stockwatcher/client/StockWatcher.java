@@ -70,6 +70,7 @@ private VerticalPanel mainPanel = new VerticalPanel();
 
   private void loadLogin() {
 	  // This is annoying
+	  // Ugh
   }
   
 private void loadStockWatcher() {
